@@ -1,0 +1,17 @@
+E:\C#\RomModifier\RomModifier\bin\Release\RomModifier.exe.config
+E:\C#\RomModifier\RomModifier\bin\Release\RomModifier.exe
+E:\C#\RomModifier\RomModifier\bin\Release\RomModifier.pdb
+E:\C#\RomModifier\RomModifier\obj\Release\RomModifier.Form1.resources
+E:\C#\RomModifier\RomModifier\obj\Release\RomModifier.Properties.Resources.resources
+E:\C#\RomModifier\RomModifier\obj\Release\RomModifier.csproj.GenerateResource.Cache
+E:\C#\RomModifier\RomModifier\obj\Release\RomModifier.exe
+E:\C#\RomModifier\RomModifier\obj\Release\RomModifier.pdb
+E:\C#\RomModifier\RomModifier\obj\Release\RomModifier.csprojResolveAssemblyReference.cache
+E:\Code\C#\RomModifier\RomModifier\bin\Release\RomModifier.exe.config
+E:\Code\C#\RomModifier\RomModifier\bin\Release\RomModifier.exe
+E:\Code\C#\RomModifier\RomModifier\bin\Release\RomModifier.pdb
+E:\Code\C#\RomModifier\RomModifier\obj\Release\RomModifier.Form1.resources
+E:\Code\C#\RomModifier\RomModifier\obj\Release\RomModifier.Properties.Resources.resources
+E:\Code\C#\RomModifier\RomModifier\obj\Release\RomModifier.csproj.GenerateResource.Cache
+E:\Code\C#\RomModifier\RomModifier\obj\Release\RomModifier.exe
+E:\Code\C#\RomModifier\RomModifier\obj\Release\RomModifier.pdb
